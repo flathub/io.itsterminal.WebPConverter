@@ -24,9 +24,9 @@
       "sources": [
         {
           "type": "git",
-          "url": "https://github.com/MichaelScuteri/webp-converter-gnome",
-          "tag": "v2",    
-          "commit": "cbd1ad368d131951c7d62a22352e84d794afc953"
+          "url": "https://github.com/MichaelScuteri/webp-converter-gnome.git",
+          "tag": "v1.1.5",    
+          "commit": "51a39c3e205f611f753b4860504bbc9a12ea65e3"
         }
       ]
     }
